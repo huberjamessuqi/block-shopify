@@ -1,4 +1,5 @@
 include: "/views/*.view"
+// Edit 1 20/10/22 - let's see if this we can marry up the fields
 explore: order {
 
   join: top_15 {
